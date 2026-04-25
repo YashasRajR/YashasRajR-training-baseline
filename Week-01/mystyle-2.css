@@ -1,0 +1,43 @@
+body{
+background-color: grey;
+}
+
+h1{
+font-family: Century Gothic;
+font-weight: bold;
+font-size: 50px;
+text-transform: uppercase;
+text-align: center;
+text-decoration-line: overline underline;
+}
+
+code{
+font-family: Segoe UI Semibold;
+font-weight: bold;
+letter-spacing: 3px;
+word-spacing: 15px;
+text-transform: capitalize;
+line-height: 1.8;
+font-size: 20px;
+}
+
+strong{
+font-family: Microsoft Sans Serif;
+font-weight: bold;
+letter-spacing: 3px;
+word-spacing: 15px;
+text-transform: capitalize;
+line-height: 1.8;
+font-size: 20px; 
+}
+
+code1{
+font-family: Aptos Narrow;
+text-indent: 50px;
+letter-spacing: 4px;
+word-spacing: 15px;
+text-transform: lowercase;
+line-height: 2;
+font-size: 30px;
+}
+

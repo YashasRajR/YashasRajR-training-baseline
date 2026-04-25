@@ -1,0 +1,14 @@
+table { 
+margin: 0 auto; 
+border-collapse: collapse; 
+} 
+table, th, td { 
+border: 2px solid black; 
+} 
+th, td { 
+padding: 10px; 
+} 
+tr:hover { 
+background-color: blue; 
+color: white; 
+} 

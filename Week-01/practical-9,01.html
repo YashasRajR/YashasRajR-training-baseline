@@ -1,0 +1,62 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+<body>
+<form>
+<legend align="center"> student registration </legend>
+
+<lable for="fname">Name</lable>
+<input type="text" id="fname" name="fname" placeholder="enter your name" pattern="(?=.*[a-z])(?=.*[A-Z]).{1,20}">
+<br>
+
+<lable for="fnaFather Nameme">Father Name</lable>
+<input type="text" id="Father Name" name="Father Name" placeholder="enter your fathers name" pattern="(?=.*[a-z])(?=.*[A-Z]).{1,20}">
+<br>
+
+<lable for="Mother Name">Mother Name</lable>
+<input type="text" id="Mother Name" name="Mother Name" placeholder="enter your mothers name" pattern="(?=.*[a-z])(?=.*[A-Z]).{1,20}">
+<br>
+
+<lable for="email">Email</lable>
+<input type="email" id="email" name="email" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z].{2,}" placeholder="enter your email">
+<br>
+
+<lable for="number">Mobile</lable>
+<td><input type="number" id="number" name="number" placeholder="enter your mobile number" pattern="(?=.*\d).{10}">
+<br>
+
+<lable>Gender</lable>
+<input type="radio" name="Gender" value="Male">Male
+<input type="radio" name="Gender" value="Female" >Female
+<br>
+
+<lable for="add">Address</lable><br>
+<textarea type="text" id="add" name="add" rows="8" cols="30" placeholder="enter your address" pattern=".{1,50}">
+</textarea>
+<br>
+
+<lable for="City">City</lable>
+<input type="text" id="City" name="City" placeholder="enter your city" pattern=".{1,50}">
+<br>
+
+<lable for="State">State</lable>
+<input type="text" id="State" name="State" placeholder="enter your state" pattern=".{1,50}">
+<br>++++
+
+<lable for="Pincode">Pincode</lable>
+<td><input type="number" id="Pincode" name="Pincode" placeholder="enter your pincode" pattern="(?=.*\d).{10}">
+<br>
+
+<lable for="Hobbies">Hobbies</lable>
+<input type="text" id="Hobbies" name="Hobbies" placeholder="enter your Hobbies" pattern=".{1,50}">
+<br>
+
+<lable for="Current College">Current College</lable>
+<input type="text" id="Current College" name="Current College" placeholder="enter your college" pattern=".{1,50}">
+<br>
+
+<button type="submit" value="Submit">Submit</button>
+</form>
+</body>
+</html>

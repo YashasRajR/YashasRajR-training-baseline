@@ -1,0 +1,19 @@
+body{
+background-color: skyblue;
+font-size: 12px;
+font-family: "Times new roman", times, serif;
+color: red;
+text-align: justify;
+text-decoration-line: underline;
+}
+h1{
+font-size: 12px;
+font-family: "Times new roman", times, serif;
+font-style: bold;
+font-variant: small-caps;
+font-weight: normal;
+text-decoration-line: overline underline;
+text-transform: uppercase;
+text-shadow:2px 2px 5px red;
+text-align: center;
+}

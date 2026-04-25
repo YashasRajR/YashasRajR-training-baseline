@@ -1,0 +1,74 @@
+body{
+background-color: #B2945E;
+border-style: solid;
+border-width: 15px;
+border-radius: 40px;
+padding: 30px;
+font-size: 20px;
+}
+----------------------------------------------------------------------------------------------------------
+.margin{
+border-style: solid;
+border-width: 15px;
+border-color: purple;
+border-radius: 30px;
+padding: 10px;
+}
+.margin h1{
+border-top: 8px solid blue;
+border-bottom: 8px solid blue;
+border-right: 4px groove blue;
+border-left: 4px groove blue;
+text-transform: uppercase;
+text-shadow: 2px 2px 2px blue;
+}
+.margin p{
+margin: 25px 50px 25px 50px;
+border-color: #704E2E;
+border-style: inset;
+border-width: 5px;
+}
+----------------------------------------------------------------------------------------------------------
+.padding{
+border-style: solid;
+border-width: 15px;
+border-color: purple;
+border-radius: 30px;
+padding: 10px;
+}
+.padding h1{
+border-top: 8px solid brown;
+border-bottom: 8px solid brown;
+border-right: 4px groove brown;
+border-left: 4px groove brown;
+text-transform: uppercase;
+text-shadow: 2px 2px 2px brown;
+}
+.padding p{
+margin: 25px 50px 25px 50px;
+border-color: #652A6E;
+border-style: outset;
+border-width: 5px;
+}
+----------------------------------------------------------------------------------------------------------
+.boxmodel{
+border-style: solid;
+border-width: 15px;
+border-color: purple;
+border-radius: 30px;
+padding: 10px;
+}
+.boxmodel h1{
+border-top: 8px solid green;
+border-bottom: 8px solid green;
+border-right: 4px groove green;
+border-left: 4px groove green;
+text-transform: uppercase;
+text-shadow: 2px 2px 2px green;
+}
+.boxmodel p{
+margin: 25px 50px 25px 50px;
+border-color: #9A7B4F;
+border-style: dashed;
+border-width: 5px;
+}

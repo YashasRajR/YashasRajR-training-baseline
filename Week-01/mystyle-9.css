@@ -1,0 +1,27 @@
+/* Center align the table */ 
+table { 
+    margin: 0 auto; 
+    border-collapse: collapse; 
+    width: 80%; 
+} 
+ 
+/* Set TH height, background color, and text color */ 
+th { 
+    height: 50px; 
+    background-color: blue; 
+    color: white; 
+} 
+ 
+/* Set border only to the bottom of each row */ 
+th, td { 
+    border-bottom: 1px solid gray; 
+} 
+ 
+/* Apply left padding to each cell */ 
+td { 
+    padding-left: 15px; 
+    padding: 15px; 
+} 
+.even{ 
+background-color: lightgray; 
+} 

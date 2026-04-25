@@ -1,0 +1,79 @@
+body{ 
+    font-family: 'The times Roman'a; 
+} 
+ 
+div{ 
+    margin: auto; 
+    align-content: center; 
+    background-color: rgb(17, 11, 15); 
+    max-width: 200px; 
+    padding: 20px; 
+    border: thin rgb(26, 7, 7); 
+    border-radius: 5px; 
+} 
+ 
+div:hover{ 
+    background-color: rgb(32, 30, 30); 
+    box-shadow: 2px 2px 2px 2px rgb(47, 31, 31); 
+} 
+ 
+a{ 
+    margin-left: 5px; 
+    text-decoration: none; 
+    font-size: larger; 
+    color: whitesmoke; 
+} 
+ 
+a:link { 
+    color: purple; 
+    background-color: transparent; 
+    text-decoration: none; 
+} 
+   
+a:visited { 
+    color: blue; 
+    background-color: transparent; 
+    text-decoration: none; 
+} 
+   
+a:hover { 
+    color: green; 
+    background-color: transparent; 
+    text-decoration: underline; 
+} 
+   
+a:active { 
+    color: red; 
+    background-color: transparent; 
+    text-decoration: underline; 
+} 
+ 
+#whatsapp a{ 
+    position: relative; 
+    top: -23px; 
+} 
+ 
+#instagram a{ 
+    position: relative; 
+    top: -23px; 
+} 
+ 
+#facebook a{ 
+    position: relative; 
+    top: -23px; 
+} 
+ 
+#linkedin a{ 
+    position: relative; 
+    top: -23px; 
+} 
+ 
+#youtube a{ 
+    position: relative; 
+    top: -23px; 
+} 
+img{ 
+padding: 5px; 
+border-radius: 5px; 
+width: 50px; 
+} 

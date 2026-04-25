@@ -1,0 +1,67 @@
+input,textarea{ 
+    max-width: 500px; 
+    border-radius: 5px; 
+    font-size: large; 
+} 
+ 
+#male ,#female{ 
+    width: auto; 
+} 
+ 
+input{ 
+    padding: 10px; 
+    margin: auto; 
+} 
+ 
+#form { 
+    color: #22177A; 
+    background-color: rgb(228, 146, 88); 
+    padding-left: 10px; 
+    padding-bottom: 10px; 
+    border-radius: 10px; 
+    width: 450px; 
+    margin: auto; 
+} 
+ 
+form{ 
+    border: thick dotted red; 
+    padding: 10px; 
+} 
+ 
+button{ 
+    background-color: green; 
+    color: white; 
+    margin: auto; 
+    text-align: center; 
+    max-width: 200px; 
+} 
+ 
+#button1 { 
+    color: #22177A; 
+    float: left; 
+    margin-left: 100px; 
+} 
+ 
+#button2 { 
+    color: #22177A; 
+    margin-left: 50px; 
+} 
+ 
+h1 { 
+    background-color: chocolate; 
+    border-radius: 10px; 
+    padding: 5px; 
+} 
+ 
+input[type=text]:focus{ 
+    border-bottom: 5px solid red; 
+    background-color: blue; 
+    color: white; 
+} 
+ 
+textarea:focus{ 
+    border: none; 
+    border-bottom: 5px solid red; 
+    background-color: blue; 
+    color: white; 
+} 

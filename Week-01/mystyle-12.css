@@ -1,0 +1,33 @@
+div{ 
+    width: 800px; 
+    text-align: justify; 
+    margin: auto; 
+    border: 1px solid brown; 
+    padding: 5px 10px 5px 10px; 
+    border-radius: 7px; 
+} 
+ 
+p{ 
+    color: blue; 
+    font-family: "Edu AU VIC WA NT Pre", serif; 
+} 
+ 
+h2{ 
+    font-family: "Edu AU VIC WA NT Pre", serif; 
+} 
+ 
+.first{ 
+    color: white; 
+    background-color: blue; 
+} 
+ 
+div:hover{ 
+    color: black; 
+    border-left: 10px solid red; 
+    background-color: gray; 
+    opacity: 50%; 
+} 
+ 
+.blk:hover{ 
+color: black; 
+} 

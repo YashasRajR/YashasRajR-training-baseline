@@ -1,0 +1,17 @@
+.gamep-3 h1{
+color:MediumSeaGreen;
+text-align: left;
+text-transform: uppercase;
+text-decoration-line: overline underline;
+text-decoration-color: black;
+text-shadow: 2px 2px 5px;
+}
+.gamep-3 p{
+font-family:Lucida Console;
+font-weight: 900;
+font-size: 20px;
+text-indent: 50px;
+letter-spacing: 1px;
+}
+
+

@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.custom-list {
+    list-style: none; /* Removes default list-style */
+    padding: 0;
+}
+
+.custom-list li {
+    padding-left: 40px; /* Space for the image */
+    background: url(mobile.png) no-repeat left center;
+    background-size: 30px 30px; /* Adjust image size */
+    margin-bottom: 10px; /* Space between list items */
+}
+
+.important {
+    outline: 2px solid red; /* Highlight the most important item */
+    outline-offset: 2px; /* Offset the outline slightly */
+}

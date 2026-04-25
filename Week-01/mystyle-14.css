@@ -1,0 +1,53 @@
+body{ 
+    background-image: url(https://leverageedublog.s3.ap-south
+1.amazonaws.com/blog/wp-content/uploads/2020/03/28214113/Types-of-Research
+Design.jpg); 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: auto; 
+} 
+ 
+div{ 
+    font-size: 20px; 
+    width: 800px; 
+    background-color: silver; 
+    opacity: 0.8; 
+    color: black; 
+    display: block; 
+    margin: auto; 
+    margin-top: 5%; 
+    padding: 10px; 
+    border-radius: 15px; 
+} 
+ 
+input{ 
+    width: 300px; 
+    padding-left: 20px; 
+    border-bottom: 3px solid gray; 
+} 
+ 
+input:focus{ 
+    background-color: gray; 
+    color: white; 
+    border: thin solid red; 
+} 
+ 
+i{ 
+    color: green; 
+} 
+ 
+legend{ 
+    background-color: rgb(242, 188, 121); 
+    border-radius: 5px; 
+    padding: 3px; 
+} 
+ 
+fieldset{ 
+    border-radius: 10px; 
+    border: 2px dotted; 
+} 
+button{ 
+    width: 300px; 
+    background-color: gray; 
+    color: white; 
+} 
